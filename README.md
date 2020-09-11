@@ -15,6 +15,7 @@
 ## 4.MARCO TEÓRICO
 ### 4.1. BOT
   Qué son Bots:
+  
   Bot es la palabra robot acortada. Se refiere a un tipo de programa informático autónomo que es capaz de llevar a cabo tareas concretas e imitar el comportamiento humano.
   Los bots pueden estar diseñados en cualquier lenguaje de programación. Funcionan en redes, especialmente en internet, y pueden interactuar con otros sistemas o usuarios.         Pueden realizar múltiples funciones: editar textos, moderar conversaciones, responder preguntas, enviar correos electrónicos, entre muchas otras.
 
@@ -30,9 +31,11 @@
   Una de las grandes ventajas de los chatbots es que, a diferencia de las aplicaciones, no se descargan, no es necesario actualizarlos y no ocupan espacio en la memoria del       teléfono. Otra es que podemos tener integrados varios bots en un mismo chat. De esta forma nos evitaríamos estar saltando de una app a otra según lo que necesitemos en cada     momento. ¿Las principales consecuencias? Experiencias de usuario más agradables e interacciones con el servicio de atención al cliente más rápidas y sencillas.
 
   ¿Cómo funcionan?
+  
   Los chatbots incorporan sistemas de inteligencia artificial. Por tanto, tienen la posibilidad de aprender sobre nuestros gustos y preferencias con el paso del tiempo. Siri o     Cortana, por ejemplo, funcionan a gracias a este sistema (aunque todavía presentan un gran margen de mejora). Otros lugares en los que han estado en funcionamiento en los       últimos años ha sido en chats como Facebook Messenger o en aplicaciones de mensajería instantánea como Telegram o Slack. En estas últimas los chatbots estaban incorporados       como si fueran un contacto más.
 
   Cómo construir tu propio chatbot
+  
   Aunque no tengas conocimientos en código o lenguaje artificial, tú mismo puedes desarrollar uno con herramientas como Api.ai, Wit.ai o Smooch. Alguna de estas te permiten       crear sencillos chats conversacionales sin llegar a escribir ni una sóla línea de código.
 
 
