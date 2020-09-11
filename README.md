@@ -1,6 +1,6 @@
 # Trabajo Extra
 # Informe 
-##  Estudio de la plataforma AlwaysAI y sus principales características
+##  El desarrollo de un chatbot con IBM Watson.
 
 ## 1.PLANTEAMIENTO DEL PROBLEMA
 ## 2.OBJETIVOS
