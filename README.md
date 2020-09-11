@@ -23,6 +23,8 @@
   La palabra bot, como tal, se registra por primera vez en la década de los sesenta, como aféresis de robot en la jerga informática. En español la podemos escribir sin cursivas
   y sin ningún otro tipo de resalte.
   
+  ![](IMG/bot.jpg)
+  
   ### 4.2. CHATBOT
   Un chatbot es un programa informático con el que es posible mantener una conversación, tanto si queremos pedirle algún tipo de información o que lleve a cabo una acción.
 
@@ -38,6 +40,7 @@
   
   Aunque no tengas conocimientos en código o lenguaje artificial, tú mismo puedes desarrollar uno con herramientas como Api.ai, Wit.ai o Smooch. Alguna de estas te permiten       crear sencillos chats conversacionales sin llegar a escribir ni una sóla línea de código.
 
+![](IMG/chatbot.jpg)
 
 ## 5. DESARROLLO DE UN EJEMPLO PRACTICO
 ## 6. LISTA DE COMPONENTES 
