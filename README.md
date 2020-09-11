@@ -9,8 +9,23 @@
 ### Específicos:
 ## 3.ESTADO DEL ARTE
 
-### Tema:
-### Tema:
+### Tema:Aplicaciones de inteligencia artificial en procesos de cadenas de suministros: una revisión sistemática
+
+Gabriel A. Icarte Ahumada
+Año de publicación 2016
+
+Facultad de Ingeniería y Arquitectura. Universidad Arturo Prat. Avda. Arturo Prat #2120. Iquique, Chile. E-mail: gicarte@unap.cl
+
+Una cadena de suministro (SC) es una red de empresas que producen, venden y entregan un producto o servicio a un segmento de mercado predeterminado. No solo incluye a los fabricantes y proveedores, sino que también a transportistas, almacenes, minoristas y los propios clientes, entre otros. Debido al avance tecnológico, específicamente en áreas como las comunicaciones, procesamiento computacional, gestión y almacenamiento de información, es posible apoyar a la administración de cadenas de suministros pudiendo hacerla mas eficiente. En este contexto, la inteligencia artificial (IA) ha sido aplicada en diferentes procesos de SC pero no hay conocimiento especifico sobre cuáles técnicas de IA están siendo aplicadas (o no) en los procesos de la SC o cuáles actividades de la SC están siendo apoyadas (o no) con técnicas de IA. Con base a lo anterior, el objetivo de este trabajo fue establecer de forma empírica el aporte de la IA en procesos de la SC, para luego establecer actividades de investigación a realizarse en el futuro. Para lograr esto, se realizó una revisión sistemática considerando el modelo SCOR como referencia para procesos de una SC. Los principales resultados indican que los algoritmos genéticos y los agentes inteligentes son las técnicas más investigadas para procesos de la SC relacionados con la planificación y, en menor medida, a procesos relacionados con la entrega de productos. Además, existe una tendencia a incluir la incertidumbre como trabajo futuro en diferentes técnicas de IA de manera que los modelos se acerquen más a la realidad (Icarte Ahumada, 2016).
+
+### Tema:A New Chatbot for Customer Service on Social Media
+
+Authors: 
+Anbang  Xu profile imageAnbang Xu, Zhe  Liu profile imageZhe Liu, Yufan  Guo profile imageYufan Guo, Vibha Singhal Sinha profile imageVibha Sinha, Rama  Akkiraju profile imageRama Akkiraju
+
+Publication:CHI '17: Proceedings of the 2017 CHI Conference on Human Factors in Computing SystemsMay 2017 Pages 3506–3510https://doi.org/10.1145/3025453.3025496
+
+Los usuarios recurren rápidamente a las redes sociales para solicitar y recibir servicio al cliente; sin embargo, la mayoría de estas solicitudes no se atendieron a tiempo o ni siquiera se atendieron en absoluto. Para superar el problema, creamos un nuevo sistema de conversación para generar automáticamente respuestas a las solicitudes de los usuarios en las redes sociales. Nuestro sistema está integrado con técnicas de aprendizaje profundo de vanguardia y está capacitado por casi 1 millón de conversaciones en Twitter entre usuarios y agentes de más de 60 marcas. La evaluación revela que más del 40% de las solicitudes son emocionales, y el sistema es tan bueno como los agentes humanos en mostrar empatía para ayudar a los usuarios a afrontar situaciones emocionales. Los resultados también muestran que nuestro sistema supera al sistema de recuperación de información basado tanto en juicios humanos como en una métrica de evaluación automática (Xu et al., 2017).
 
 ## 4.MARCO TEÓRICO
 ### 4.1. BOT
@@ -21,7 +36,7 @@
 
   Hoy en día son usados para realizar diversas tareas en plataformas muy populares, como Youtube, Twitter, Facebook o Instagram.
   La palabra bot, como tal, se registra por primera vez en la década de los sesenta, como aféresis de robot en la jerga informática. En español la podemos escribir sin cursivas
-  y sin ningún otro tipo de resalte.
+  y sin ningún otro tipo de resalte (Significado de Bots (Qué Son, Concepto y Definición) - Significados, n.d.).
   
   ![](IMG/bot.jpg)
   
@@ -38,7 +53,7 @@
 
   Cómo construir tu propio chatbot
   
-  Aunque no tengas conocimientos en código o lenguaje artificial, tú mismo puedes desarrollar uno con herramientas como Api.ai, Wit.ai o Smooch. Alguna de estas te permiten       crear sencillos chats conversacionales sin llegar a escribir ni una sóla línea de código.
+  Aunque no tengas conocimientos en código o lenguaje artificial, tú mismo puedes desarrollar uno con herramientas como Api.ai, Wit.ai o Smooch. Alguna de estas te permiten       crear sencillos chats conversacionales sin llegar a escribir ni una sóla línea de código (¿Qué Es Un Chatbot?, n.d.).
 
 ![](IMG/chatbot.jpg)
 
@@ -61,5 +76,15 @@ Varios ejemplos se encuentran en el área de control de sistemas, planificación
 ## 8. CONCLUSIONES
 ## 9.RECOMENDACIONES
 ## 10.BIBLIOGRAFÍA:
+
+*¿Qué es un chatbot? (n.d.). Retrieved September 11, 2020, from https://www.40defiebre.com/que-es/chatbot
+
+*Icarte Ahumada, G. A. (2016). Applications of artificial intelligence in supply chain process: A systematic review. In Ingeniare (Vol. 24, Issue 4, pp. 663–679). Universidad de Tarapaca. https://doi.org/10.4067/s0718-33052016000400011
+
+*Significado de Bots (Qué son, Concepto y Definición) - Significados. (n.d.). Retrieved September 11, 2020, from https://www.significados.com/bots/
+
+*Xu, A., Liu, Z., Guo, Y., Sinha, V., & Akkiraju, R. (2017). A New Chatbot for Customer Service on Social Media. Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems. http://dx.doi.org/10.1145/3025453.3025496
+
+
 ## 11. ANEXOS
 
