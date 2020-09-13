@@ -76,13 +76,14 @@ Varios ejemplos se encuentran en el área de control de sistemas, planificación
 ¿Quien se acuerda hoy de Deep Blue? Aquel el ordenador desarrollado por IBM que se hace ya unos años se enfrentó al excampeón de ajedrez Gari Kasparov. Lo que hace un tiempo parecía insinuar algunas de las posibilidades de la inteligencia artificial ha tenido, de alguna manera, continuación. Se trata de Watson, un sistema de inteligencia artificial que pretende ser capaz de emular y superar al cerebro humano.
 
 Como parte de las jornadas del Information on Demand, la convención anual de IBM a la que Muy Interesante tuvo la oportunidad de asistir, la compañía ofreció una demostración de las capacidades de este sistema capaz de responder a preguntas formuladas mediante el lenguaje natural humano.
-Watson participó hace tan solo unos meses en un famoso concurso de la televisión estadounidense, Jeopardy!, donde derrotó facilmente a dos de los mejores concursantes de la historia del programa respondiendo a las preguntas en un tiempo inferior a tres segundos.. Pudiendo ser configurado de diferentes maneras, Watson utiliiza toda las innovaciones en materia de análisis y gestión de datos de IBM, ya sea mediante su conexión a bases de datos o enciclopedias almacenadas en discos duros, como a internet, con las casi ilimitadas fuentes que ello supone. La función de Watson es, precisamente por ello, el acceder, seleccionar y procesar la información más adecuada a lo que la situación o la interacción requiere.
+Watson participó hace tan solo unos meses en un famoso concurso de la televisión estadounidense, Jeopardy!, donde derrotó facilmente a dos de los mejores concursantes de la historia del programa respondiendo a las preguntas en un tiempo inferior a tres segundos.. Pudiendo ser configurado de diferentes maneras, Watson utiliiza toda las innovaciones en materia de análisis y gestión de datos de IBM, ya sea mediante su conexión a bases de datos o enciclopedias almacenadas en discos duros, como a internet, con las casi ilimitadas fuentes que ello supone. La función de Watson es, precisamente por ello, el acceder, seleccionar y procesar la información más adecuada a lo que la situación o la interacción requiere (Watson, La Inteligencia Artificial de IBM Para El Futuro, n.d.).
 
 La intención de IBM es que en un futuro, Watson sea capaz de interactuar en términos humanos en gran cantidad de procesos. Aunque expertos como el filósofo John Searle ya han mostrado su lógico excepticismo ante las supuestas capacidades intelectivas humanas que este sistema pretende, IBM parece empeñada hacer real a HAL 9000, el famoso ordenador de abordo que Stanley Kubrik soñó para su película 2001: Una odisea en el espacio.
 
 ![](IMG/WATSON.jpg)
 
-## 5. DESARROLLO DE UN EJEMPLO PRACTICO
+## 5. CREACION DEL CHATTBOT
+
 ## 6. LISTA DE COMPONENTES 
 ## 7. APORTACIONES
 ## 8. CONCLUSIONES
@@ -99,6 +100,8 @@ La intención de IBM es que en un futuro, Watson sea capaz de interactuar en té
 *Icarte Ahumada, G. A. (2016). Applications of artificial intelligence in supply chain process: A systematic review. In Ingeniare (Vol. 24, Issue 4, pp. 663–679). Universidad de Tarapaca. https://doi.org/10.4067/s0718-33052016000400011
 
 *Significado de Bots (Qué son, Concepto y Definición) - Significados. (n.d.). Retrieved September 11, 2020, from https://www.significados.com/bots/
+
+*Watson, la inteligencia artificial de IBM para el futuro. (n.d.). Retrieved September 13, 2020, from https://www.muyinteresante.es/innovacion/articulo/watson-la-inteligencia-artificial-de-ibm-para-el-futuro
 
 *Xu, A., Liu, Z., Guo, Y., Sinha, V., & Akkiraju, R. (2017). A New Chatbot for Customer Service on Social Media. Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems. http://dx.doi.org/10.1145/3025453.3025496
 
