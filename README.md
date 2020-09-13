@@ -84,6 +84,53 @@ La intención de IBM es que en un futuro, Watson sea capaz de interactuar en té
 
 ## 5. CREACION DEL CHATTBOT
 
+  ### 5.1. Bluemix y IBM Watson
+Bluemix es la plataforma computación en la nube (Cloud Computing) de IBM. En la misma se pueden utilizar diferentes servicios y tecnologías en forma de alquiler. (Pagamos por uso). En nuestro caso usaremos uno de los servicios cognitivos de IBM: Watson Assistant. Watson Assistant es una tecnología conversacional que nos permitirá diseñar nuestro propio chatbot. Un chatbot es un software que automatiza tareas a través de interacciones con el usuario en formato de texto.
+
+![](IMG/IBM.jpg)
+
+  ### 5.2. CREAMOS CUENTA
+  
+Para ello, vamos a crearnos una cuenta gratuita en Bluemix. Necesitamos entrar a https://www.ibm.com/cloud-computing/bluemix/ y hacemos clic en “Crear cuenta gratuita”.
+
+![](IMG/CUENTA.jpg)
+
+Llenamos nuestros datos y hacemos clic en “crear recurso”.
+
+![](IMG/CUENTA.jpg)
+
+Una vez que activamos nuestra cuenta haciendo clic en el link que nos llega a nuestro correo. Nos identificamos y en el panel principal nos dirigimos hacia abajo hasta donde dice “servicios”. Allá apretamos “Crear servicio”.
+
+
+![](IMG/CUENTA.jpg)
+
+Bajamos hasta encontrar “Watson” y hacemos clic en “Conversation”.
+
+![](IMG/CUENTA.jpg)
+
+Inventamos un nombre cualquiera para nuestro servicio y le damos a “Crear”.
+
+
+![](IMG/CUENTA.jpg)
+
+Una vez creado nuestro servicio, el navegador nos re-direccionará al panel del mismo, vamos hacia abajo hasta encontrar el botón de “Launch tool”.
+
+
+![](IMG/CUENTA.jpg)
+
+Ingresamos con nuestro IBM ID. Necesitamos crear un “Workspace”, para eso le damos a “Create”.
+
+
+![](IMG/CUENTA.jpg)
+
+Le ponemos un nombre cualquiera, seleccionamos idioma español y damos a “Create”.
+
+
+![](IMG/CUENTA.jpg)
+
+
+### 5.1. Bluemix y IBM Watson
+  
 ## 6. LISTA DE COMPONENTES 
 ## 7. APORTACIONES
 ## 8. CONCLUSIONES
