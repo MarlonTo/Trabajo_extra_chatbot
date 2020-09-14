@@ -132,15 +132,19 @@ Le ponemos un nombre cualquiera, seleccionamos idioma español y damos a “Crea
 ### 5.1. Bluemix y IBM Watson
   
 ## 6. LISTA DE COMPONENTES 
-## 7. APORTACIONES
-## 8. CONCLUSIONES
+
+*Computadora
+*Internet
+*Cuenta de IBM CLOUD
+
+## 7. CONCLUSIONES
 
 *Un bot es una capa entre la IA y el usuario, que puede utilizar diversos canales de comunicación y cuya funcionalidad es muy amplia y diversa. Tiene aplicaciones, como hemos visto tanto a nivel interno dentro de una organización, como a nivel de interacción organización - usuario externo. Las áreas en las que se puede aplicar son variadas.
 
 *Los chatbots no son nada nuevo, el concepto nació hace mucho tiempo pero ha sido en los últimos años en los que esta tecnología ha despegado lo suficiente gracias a los avances técnicos y de inteligencia artificial. Al fin y al cabo, es una nueva (y excelente) manera de captar leads y aumentar la comunicación directa con tus clientes o potenciales clientes.
 
-## 9.RECOMENDACIONES
-## 10.BIBLIOGRAFÍA:
+## 8.RECOMENDACIONES
+## 9.BIBLIOGRAFÍA:
 
 *¿Qué es un chatbot? (n.d.). Retrieved September 11, 2020, from https://www.40defiebre.com/que-es/chatbot
 
