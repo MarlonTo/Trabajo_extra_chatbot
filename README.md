@@ -210,7 +210,9 @@ Ya colocado todo en las etiquetas procedemos a interactuar con el BOT
 ## 6. LISTA DE COMPONENTES 
 
 *Computadora
+
 *Internet
+
 *Cuenta de IBM CLOUD
 
 ## 7. CONCLUSIONES
