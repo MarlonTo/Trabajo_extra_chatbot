@@ -246,3 +246,4 @@ entrega, cambio de color o cambio de talla...) estas herramientas serían la opc
 
 ## 11. ANEXOS
 
+![](IMG/Imagen25.png)
