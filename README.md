@@ -3,10 +3,19 @@
 ##  El desarrollo de un chatbot con IBM Watson.
 
 ## 1.PLANTEAMIENTO DEL PROBLEMA
+
+Realizar un tutorial sobre como desarrollo de un chatbot con IBM Watson.
+
 ## 2.OBJETIVOS
 
 ### General:
+Estudio de la Plataforma de IBM Watson para el Desarrollo de un ChatBot.
+
 ### Específicos:
+*Investigar la plataforma IBM Watson en la construcción de un ChatBot
+*Realizar un video tutorial sobre el desarrollo de un ChatBot con IBM Watson.
+*Presentar la documentación del desarrollo del ChatBot.
+
 ## 3.ESTADO DEL ARTE
 
 ### Tema:Aplicaciones de inteligencia artificial en procesos de cadenas de suministros: una revisión sistemática
@@ -93,43 +102,110 @@ Bluemix es la plataforma computación en la nube (Cloud Computing) de IBM. En la
   
 Para ello, vamos a crearnos una cuenta gratuita en Bluemix. Necesitamos entrar a https://www.ibm.com/cloud-computing/bluemix/ y hacemos clic en “Crear cuenta gratuita”.
 
-![](IMG/CUENTA.jpg)
+![](IMG/imagen1.jpg)
 
 Llenamos nuestros datos y hacemos clic en “crear recurso”.
 
-![](IMG/CUENTA.jpg)
+![](IMG/imagen2.jpg)
 
-Una vez que activamos nuestra cuenta haciendo clic en el link que nos llega a nuestro correo. Nos identificamos y en el panel principal nos dirigimos hacia abajo hasta donde dice “servicios”. Allá apretamos “Crear servicio”.
+Luego seleccionamos la primera opción llamada “Watson Assistant”
+
+![](IMG/imagen3.PNG)
+
+Ya seleccionada procedemos a crear el servidor para el chatbot
+
+![](IMG/imagen4.jpg)
+
+En la parte de “Seleccione una región” es para designar en que lugar va ha estar el servidor, Los lugares que puede estar los servidores son los siguientes:
+Yo seleccione el de Washington DC
+
+![](IMG/imagen5.PNG)
+
+Esta parte es para seleccionar el plan que tu requieras con su respectivo costo
+
+![](IMG/imagen6.PNG)
+
+Al final ponemos el nombre del servicio y sus etiquetas
+
+![](IMG/imagen7.PNG)
+
+Ya llenado todos los pasos anteriores presionamos la opción “crear”
+
+![](IMG/imagen8.PNG)
+
+Luego va salirnos un pantalla mostrándonos la clave de API y la dirección del servidor, de ahí presionamos la opción “Iniciar Watson Assistant” 
+
+![](IMG/imagen9.PNG)
 
 
-![](IMG/CUENTA.jpg)
+La siguiente pestaña es para crear a nuestro asistente
 
-Bajamos hasta encontrar “Watson” y hacemos clic en “Conversation”.
+Seleccionamos “Creat assistant”
 
-![](IMG/CUENTA.jpg)
+![](IMG/imagen10.PNG)
 
-Inventamos un nombre cualquiera para nuestro servicio y le damos a “Crear”.
+Luego procedemos a seleccionar un nombre para tu asistente y si quieres le colocas una descripción 
 
+Y al final ponemos “Creat assistant”
 
-![](IMG/CUENTA.jpg)
+![](IMG/imagen11.PNG)
 
-Una vez creado nuestro servicio, el navegador nos re-direccionará al panel del mismo, vamos hacia abajo hasta encontrar el botón de “Launch tool”.
+Luego seleccionamos la primera opción que dice “Add dialog skill”
 
+![](IMG/imagen12.PNG)
 
-![](IMG/CUENTA.jpg)
+Aquí creamos el idioma en el cual se va a comunicar el asistente con su nombre de skill y su descripción 
 
-Ingresamos con nuestro IBM ID. Necesitamos crear un “Workspace”, para eso le damos a “Create”.
+![](IMG/imagen13.PNG)
 
+Ya terminado seleccionamos otra vez SKILL
 
-![](IMG/CUENTA.jpg)
+![](IMG/imagen14.PNG)
 
-Le ponemos un nombre cualquiera, seleccionamos idioma español y damos a “Create”.
+Luego de seleccionar va a salirnos esta pantalla
 
+![](IMG/imagen15.PNG)
 
-![](IMG/CUENTA.jpg)
+Para crear el diálogo del Bot hay tres etiquetas las cuales son “Intents” , la otra es “Entities” y por ultimo “Dialog” 
 
+![](IMG/imagen16.PNG)
 
-### 5.1. Bluemix y IBM Watson
+*Para Intent
+
+Es para que el Bot detecte el tema de conversación es nuestro ejemplo vamos a hacer sobre una compañía auto motriz. 
+En el name ponemos auto y en la descripción Buscar auto.
+Y por ultimo seleccionamos créate.
+
+![](IMG/imagen17.PNG)
+
+![](IMG/imagen18.PNG)
+
+En la parte de “Usert example” es para las posibles frases que puede ingresar el usuario en este ejemplo yo puse:
+
+![](IMG/imagen19.PNG)
+
+Luego procedemos a la opción de entity 
+
+![](IMG/imagen20.PNG)
+
+La parte de entidad es para seguir la conversación que en este ejemplo es para saber que tipo de carro quiere para lo cual creamos el nombre de la entidad TipoDeAuto y en la parte de value describimos los tipos de autos y ponemos los sinónimos que podría poner el usuario 
+
+![](IMG/imagen21.PNG)
+
+Luego vamos a dialog, los cuales están se parados en nodos para crear las posibles charlas que podría efectuar un usuario y las posibles fraces que podría también ejecutar el Bot.
+
+![](IMG/imagen22.PNG)
+
+En los nodos se designa la entidad con su pregunta, luego se decide la entidad con su respectiva características y con su respuesta correspondiente 
+
+![](IMG/imagen23.PNG)
+
+![](IMG/imagen24.PNG)
+
+Ya colocado todo en las etiquetas procedemos a interactuar con el BOT
+
+![](IMG/imagen25.PNG)
+
   
 ## 6. LISTA DE COMPONENTES 
 
@@ -144,6 +220,17 @@ Le ponemos un nombre cualquiera, seleccionamos idioma español y damos a “Crea
 *Los chatbots no son nada nuevo, el concepto nació hace mucho tiempo pero ha sido en los últimos años en los que esta tecnología ha despegado lo suficiente gracias a los avances técnicos y de inteligencia artificial. Al fin y al cabo, es una nueva (y excelente) manera de captar leads y aumentar la comunicación directa con tus clientes o potenciales clientes.
 
 ## 8.RECOMENDACIONES
+
+*El uso de ChatBots en los negocios donde los clientes necesitan una respuesta inmediata y de fácil de decisión (como, por ejemplo, cambio de fecha de 
+entrega, cambio de color o cambio de talla...) estas herramientas serían la opción más correcta.
+
+*Cuando los negocios tienen gran variedad de posibilidades ya sea por grandes inventarios o productos con muchas características, la opción de implementar un ChatBot son más limitadas en su campo de acción por lo que deberán terminar su acción derivando al personal humano para su atención
+
+*El éxito de un ChatBot esta en las relaciones que podamos ingresar a la plataforma entre los actores y las soluciones a ofrecer por un ChatBot, esto implica que mientras más podamos abstraer las funciones de nuestro negocio más precisa será la respuesta del Chatbot.
+
+
+*Es importante que todo ChatBot presente en sus respuestas personalidad o visto de otra manera que su comportamiento se acerque mucho al de una persona. De esto dependerá su éxito.
+
 ## 9.BIBLIOGRAFÍA:
 
 *¿Qué es un chatbot? (n.d.). Retrieved September 11, 2020, from https://www.40defiebre.com/que-es/chatbot
