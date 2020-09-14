@@ -102,73 +102,73 @@ Bluemix es la plataforma computación en la nube (Cloud Computing) de IBM. En la
   
 Para ello, vamos a crearnos una cuenta gratuita en Bluemix. Necesitamos entrar a https://www.ibm.com/cloud-computing/bluemix/ y hacemos clic en “Crear cuenta gratuita”.
 
-![](IMG/imagen1.jpg)
+![](IMG/Imagen1.jpg)
 
 Llenamos nuestros datos y hacemos clic en “crear recurso”.
 
-![](IMG/imagen2.jpg)
+![](IMG/Imagen2.jpg)
 
 Luego seleccionamos la primera opción llamada “Watson Assistant”
 
-![](IMG/imagen3.png)
+![](IMG/Imagen3.png)
 
 Ya seleccionada procedemos a crear el servidor para el chatbot
 
-![](IMG/imagen4.jpg)
+![](IMG/Imagen4.jpg)
 
 En la parte de “Seleccione una región” es para designar en que lugar va ha estar el servidor, Los lugares que puede estar los servidores son los siguientes:
 Yo seleccione el de Washington DC
 
-![](IMG/imagen5.png)
+![](IMG/Imagen5.png)
 
 Esta parte es para seleccionar el plan que tu requieras con su respectivo costo
 
-![](IMG/imagen6.png)
+![](IMG/Imagen6.png)
 
 Al final ponemos el nombre del servicio y sus etiquetas
 
-![](IMG/imagen7.png)
+![](IMG/Imagen7.png)
 
 Ya llenado todos los pasos anteriores presionamos la opción “crear”
 
-![](IMG/imagen8.png)
+![](IMG/Imagen8.png)
 
 Luego va salirnos un pantalla mostrándonos la clave de API y la dirección del servidor, de ahí presionamos la opción “Iniciar Watson Assistant” 
 
-![](IMG/imagen9.png)
+![](IMG/Imagen9.png)
 
 
 La siguiente pestaña es para crear a nuestro asistente
 
 Seleccionamos “Creat assistant”
 
-![](IMG/imagen10.png)
+![](IMG/Imagen10.png)
 
 Luego procedemos a seleccionar un nombre para tu asistente y si quieres le colocas una descripción 
 
 Y al final ponemos “Creat assistant”
 
-![](IMG/imagen11.png)
+![](IMG/Imagen11.png)
 
 Luego seleccionamos la primera opción que dice “Add dialog skill”
 
-![](IMG/imagen12.png)
+![](IMG/Imagen12.png)
 
 Aquí creamos el idioma en el cual se va a comunicar el asistente con su nombre de skill y su descripción 
 
-![](IMG/imagen13.png)
+![](IMG/Imagen13.png)
 
 Ya terminado seleccionamos otra vez SKILL
 
-![](IMG/imagen14.png)
+![](IMG/Imagen14.png)
 
 Luego de seleccionar va a salirnos esta pantalla
 
-![](IMG/imagen15.png)
+![](IMG/Imagen15.png)
 
 Para crear el diálogo del Bot hay tres etiquetas las cuales son “Intents” , la otra es “Entities” y por ultimo “Dialog” 
 
-![](IMG/imagen16.png)
+![](IMG/Imagen16.png)
 
 *Para Intent
 
@@ -176,35 +176,35 @@ Es para que el Bot detecte el tema de conversación es nuestro ejemplo vamos a h
 En el name ponemos auto y en la descripción Buscar auto.
 Y por ultimo seleccionamos créate.
 
-![](IMG/imagen17.png)
+![](IMG/Imagen17.png)
 
-![](IMG/imagen18.png)
+![](IMG/Imagen18.png)
 
 En la parte de “Usert example” es para las posibles frases que puede ingresar el usuario en este ejemplo yo puse:
 
-![](IMG/imagen19.png)
+![](IMG/Imagen19.png)
 
 Luego procedemos a la opción de entity 
 
-![](IMG/imagen20.png)
+![](IMG/Imagen20.png)
 
 La parte de entidad es para seguir la conversación que en este ejemplo es para saber que tipo de carro quiere para lo cual creamos el nombre de la entidad TipoDeAuto y en la parte de value describimos los tipos de autos y ponemos los sinónimos que podría poner el usuario 
 
-![](IMG/imagen21.png)
+![](IMG/Imagen21.png)
 
 Luego vamos a dialog, los cuales están se parados en nodos para crear las posibles charlas que podría efectuar un usuario y las posibles fraces que podría también ejecutar el Bot.
 
-![](IMG/imagen22.png)
+![](IMG/Imagen22.png)
 
 En los nodos se designa la entidad con su pregunta, luego se decide la entidad con su respectiva características y con su respuesta correspondiente 
 
-![](IMG/imagen23.png)
+![](IMG/Imagen23.png)
 
-![](IMG/imagen24.png)
+![](IMG/Imagen24.png)
 
 Ya colocado todo en las etiquetas procedemos a interactuar con el BOT
 
-![](IMG/imagen25.png)
+![](IMG/Imagen25.png)
 
   
 ## 6. LISTA DE COMPONENTES 
