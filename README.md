@@ -106,6 +106,8 @@ Para ello, vamos a crearnos una cuenta gratuita en Bluemix. Necesitamos entrar a
 
 Llenamos nuestros datos y hacemos clic en “crear recurso”.
 
+### 5.3. CREAMOS SERVIDOR DEL CHATBOT
+
 ![](IMG/Imagen2.jpg)
 
 Luego seleccionamos la primera opción llamada “Watson Assistant”
@@ -133,7 +135,10 @@ Ya llenado todos los pasos anteriores presionamos la opción “crear”
 
 ![](IMG/Imagen8.png)
 
+### 5.4. CREAMOS SERVIDOR DEL ASISTENTE
+
 Luego va salirnos un pantalla mostrándonos la clave de API y la dirección del servidor, de ahí presionamos la opción “Iniciar Watson Assistant” 
+
 
 ![](IMG/Imagen9.png)
 
@@ -142,33 +147,48 @@ La siguiente pestaña es para crear a nuestro asistente
 
 Seleccionamos “Creat assistant”
 
+
 ![](IMG/Imagen10.png)
+
 
 Luego procedemos a seleccionar un nombre para tu asistente y si quieres le colocas una descripción 
 
 Y al final ponemos “Creat assistant”
 
+
 ![](IMG/Imagen11.png)
+
 
 Luego seleccionamos la primera opción que dice “Add dialog skill”
 
+
 ![](IMG/Imagen12.png)
+
 
 Aquí creamos el idioma en el cual se va a comunicar el asistente con su nombre de skill y su descripción 
 
+
 ![](IMG/Imagen13.png)
+
 
 Ya terminado seleccionamos otra vez SKILL
 
+
 ![](IMG/Imagen14.png)
+
 
 Luego de seleccionar va a salirnos esta pantalla
 
+
 ![](IMG/Imagen15.png)
+
+### 5.5. CREAMOS INTENCIONES DEL ASISTENTE
 
 Para crear el diálogo del Bot hay tres etiquetas las cuales son “Intents” , la otra es “Entities” y por ultimo “Dialog” 
 
+
 ![](IMG/Imagen16.png)
+
 
 *Para Intent
 
@@ -176,31 +196,47 @@ Es para que el Bot detecte el tema de conversación es nuestro ejemplo vamos a h
 En el name ponemos auto y en la descripción Buscar auto.
 Y por ultimo seleccionamos créate.
 
+
 ![](IMG/Imagen17.png)
 
 ![](IMG/Imagen18.png)
 
+
 En la parte de “Usert example” es para las posibles frases que puede ingresar el usuario en este ejemplo yo puse:
+
 
 ![](IMG/Imagen19.png)
 
+
+### 5.6. CREAMOS ENTIDADES DEL ASISTENTE
+
 Luego procedemos a la opción de entity 
+
 
 ![](IMG/Imagen20.png)
 
+
 La parte de entidad es para seguir la conversación que en este ejemplo es para saber que tipo de carro quiere para lo cual creamos el nombre de la entidad TipoDeAuto y en la parte de value describimos los tipos de autos y ponemos los sinónimos que podría poner el usuario 
+
 
 ![](IMG/Imagen21.png)
 
+
+### 5.5. CREAMOS EL DIALOGO DEL ASISTENTE
+
 Luego vamos a dialog, los cuales están se parados en nodos para crear las posibles charlas que podría efectuar un usuario y las posibles fraces que podría también ejecutar el Bot.
+
 
 ![](IMG/Imagen22.png)
 
+
 En los nodos se designa la entidad con su pregunta, luego se decide la entidad con su respectiva características y con su respuesta correspondiente 
+
 
 ![](IMG/Imagen23.png)
 
 ![](IMG/Imagen24.png)
+
 
 Ya colocado todo en las etiquetas procedemos a interactuar con el BOT
 
