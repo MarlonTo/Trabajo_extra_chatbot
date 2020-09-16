@@ -193,7 +193,7 @@ Para crear el diálogo del Bot hay tres etiquetas las cuales son “Intents” ,
 *Para Intent
 
 Es para que el Bot detecte el tema de conversación es nuestro ejemplo vamos a hacer sobre una compañía auto motriz. 
-En el name ponemos auto y en la descripción Buscar auto.
+En el name ponemos la categoria general en este caso mi tema es los autos y en la descripción colocamos la frase a la cual va a direccionarse el asistenten este caso yo coloque "Buscar auto".
 Y por ultimo seleccionamos créate.
 
 
@@ -216,7 +216,7 @@ Luego procedemos a la opción de entity
 ![](IMG/Imagen20.png)
 
 
-La parte de entidad es para seguir la conversación que en este ejemplo es para saber que tipo de carro quiere para lo cual creamos el nombre de la entidad TipoDeAuto y en la parte de value describimos los tipos de autos y ponemos los sinónimos que podría poner el usuario 
+La parte de entidad es para desglosar el tema general que en este ejemplo es de autos para lo cual creamos en la primera parte la entidad que en este caso es TipoDeAuto y en la parte de value describimos los subtemas que va a tener la entidad por lo que prosigo a describir en 3 partes,            luego pnemos los sinónimos que podría poner el usuario. 
 
 
 ![](IMG/Imagen21.png)
@@ -224,16 +224,17 @@ La parte de entidad es para seguir la conversación que en este ejemplo es para 
 
 ### 5.5. CREAMOS EL DIALOGO DEL ASISTENTE
 
-Luego vamos a dialog, los cuales están se parados en nodos para crear las posibles charlas que podría efectuar un usuario y las posibles fraces que podría también ejecutar el Bot.
+Luego vamos a dialog, en esta parte se visualizo los nodos de conversacion los cuales se crear las posibles charlas que podría efectuar un usuario y las posibles fraces que podría también ejecutar el Bot.
 
 
 ![](IMG/Imagen22.png)
 
 
-En los nodos se designa la entidad con su pregunta, luego se decide la entidad con su respectiva características y con su respuesta correspondiente 
-
+En el primer nodo se peude ver que ya se asigno el saludo, por lo que procederemos ha asignar el segundo nodo en el cual se designo que en la parte de "Then check" se asigna la entidad, y en "Save it as" se coloca automaticamente y en "If not present, ask" se asigna la pregunta que va asignada a la entidad y "Type" se puede cambiar el estado de que sea obligatorio o no presentarle la pregunta.
 
 ![](IMG/Imagen23.png)
+
+Mas abajo Asistant respoond se coloca la entidad aumenta los dos puntos y colocamos valor que antes se coloco en entidades con su respectiva respuesta.
 
 ![](IMG/Imagen24.png)
 
