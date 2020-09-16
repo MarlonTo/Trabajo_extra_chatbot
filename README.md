@@ -109,7 +109,7 @@ Llenamos nuestros datos y hacemos clic en “crear recurso”.
 
 ![](IMG/Imagen2.jpg)
 
-### 5.3. CREAMOS SERVIDOR DEL CHATBOT
+### 5.3. CREACION DEL SERVIDOR DEL CHATBOT
 
 Luego seleccionamos la primera opción llamada “Watson Assistant”
 
@@ -136,7 +136,7 @@ Ya llenado todos los pasos anteriores presionamos la opción “crear”
 
 ![](IMG/Imagen8.png)
 
-### 5.4. CREAMOS SERVIDOR DEL ASISTENTE
+### 5.4. CREACION DEL ASISTENTE
 
 Luego va salirnos un pantalla mostrándonos la clave de API y la dirección del servidor, de ahí presionamos la opción “Iniciar Watson Assistant” 
 
