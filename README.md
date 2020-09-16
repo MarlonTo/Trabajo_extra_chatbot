@@ -106,9 +106,10 @@ Para ello, vamos a crearnos una cuenta gratuita en Bluemix. Necesitamos entrar a
 
 Llenamos nuestros datos y hacemos clic en “crear recurso”.
 
-### 5.3. CREAMOS SERVIDOR DEL CHATBOT
 
 ![](IMG/Imagen2.jpg)
+
+### 5.3. CREAMOS SERVIDOR DEL CHATBOT
 
 Luego seleccionamos la primera opción llamada “Watson Assistant”
 
